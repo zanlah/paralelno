@@ -6,7 +6,6 @@
 #include <vector>
 using namespace std;
 #define MAX_LINE_LENGTH 1000
-#define MAX_LINES 1000
 
 // dolzina najdaljše besede v nizu
 int f1(const string &str)
